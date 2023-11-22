@@ -16,6 +16,7 @@ To install this application, you can test the routes in your browser or another 
 ## Usage
 To use this project, go to http://localhost:3001/api/ and add the parameters categories, products, or tags to be able to create, read, update, or delete
 data from the databases. The following video demonstrates how this is done.
+https://drive.google.com/file/d/1b4S_5vNLfkKp0YSm6Z3_dW6B3jAdFrRc/view
 
 ## Credits
 My tutor, Mila Hose, helped me with the syntax of my include statements in the tag-routes file and product-routes file.
